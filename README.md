@@ -9,3 +9,5 @@ This all made with the help of react techologys, using states and context, some 
 When ordering some of the meals and entering to the Cart:
 ![image](https://user-images.githubusercontent.com/71960259/134928385-81b6c665-1406-412d-aa34-7f54968a4378.png)
 
+And as you can see there are options to add more item to the same meal or reduce items.
+The price and the amount is changed accordingly to the Chosen option.
